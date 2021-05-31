@@ -1,0 +1,429 @@
+[ 2021-05-28T08:36:47+08:00 ] ::1 /union/admin.php/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2021-05-28T10:06:29+08:00 ] ::1 //union/admin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001445s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001513s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.094760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2021-05-28T10:06:29+08:00 ] ::1 /union/admin.php/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2021-05-28T16:57:34+08:00 ] ::1 //union/admin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022297s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000750s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000813s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.156095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.156161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013443s ]
+
+[ 2021-05-28T16:57:34+08:00 ] ::1 /union/admin.php/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000241s ]
+
+[ 2021-05-28T16:57:43+08:00 ] ::1 //union/admin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000148s ]
+
+[ 2021-05-28T16:57:43+08:00 ] ::1 /union/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+
+[ 2021-05-28T16:57:46+08:00 ] ::1 /union/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+
+[ 2021-05-28T16:57:46+08:00 ] ::1 //union/admin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000116s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2021-05-28T16:57:48+08:00 ] ::1 /union/admin.php/Login/verify.html?time=0.3656125294763153
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000214s ]
+
+[ 2021-05-28T16:57:55+08:00 ] ::1 //union/admin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000220s ]
+
+[ 2021-05-28T16:57:55+08:00 ] ::1 /union/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+
+[ 2021-05-28T16:57:58+08:00 ] ::1 //union/admin.php/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2021-05-28T16:57:59+08:00 ] ::1 /union/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+SQL: SHOW COLUMNS FROM `union_admin` [ RunTime:0.0604s ]
+SQL: SHOW COLUMNS FROM `union_admin` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `union_admin` WHERE `username` = 'admin' AND `password` = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.0253s ]
+SQL: SHOW COLUMNS FROM `union_admin` [ RunTime:0.0011s ]
+SQL: UPDATE `union_admin` SET `last_login_time`='1622192279',`last_login_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.0038s ]
+
+[ 2021-05-28T16:58:00+08:00 ] ::1 /union/admin.php/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `union_admin` [ RunTime:0.0028s ]
+SQL: SELECT `role_id` FROM `union_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0081s ]
+SQL: SHOW COLUMNS FROM `union_role` [ RunTime:0.0048s ]
+SQL: SELECT `auth` FROM `union_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0150s ]
+SQL: SELECT `username` FROM `union_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `images_id` FROM `union_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `union_role` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 64 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 72 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 80 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 91 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 99 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 105 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 114 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 122 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 128 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 137 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 145 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 151 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 157 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 163 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 172 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 180 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 186 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 195 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 203 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 215 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 223 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 229 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 238 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 246 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 252 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 261 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 269 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 275 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 284 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 291 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 299 行.
+NOTIC: [2] in_array() expects parameter 2 to be array, bool given C:\wamp64\www\union\Application\Runtime\Cache\Admin\b595b808c2ebeeeb0478ffc30bb4e87a.php 第 307 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.350897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.350958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2021-05-28T16:58:00+08:00 ] ::1 /union/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+SQL: SELECT VERSION() AS ver [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2021-05-28T16:58:09+08:00 ] ::1 /union/admin.php/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+SQL: SELECT VERSION() AS ver [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2021-05-28T16:58:28+08:00 ] ::1 /union/admin.php/Member/memberList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000171s ]
+SQL: SHOW COLUMNS FROM `union_member` [ RunTime:0.0106s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `union_member` LIMIT 1   [ RunTime:0.0170s ]
+SQL: SELECT * FROM `union_member` ORDER BY create_time desc LIMIT 0,10   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2021-05-28T17:25:10+08:00 ] ::1 /union/admin.php/Doc/docList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SHOW COLUMNS FROM `union_doc` [ RunTime:0.0177s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `union_doc` LIMIT 1   [ RunTime:0.0266s ]
+SQL: SELECT * FROM `union_doc` ORDER BY create_time desc LIMIT 0,10   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2021-05-28T17:28:05+08:00 ] ::1 /union/admin.php/Database/index/type/export.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.2025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Undefined variable: table C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 81 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined index: id C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 94 行.
+NOTIC: [8] Undefined variable: page C:\wamp64\www\union\Application\Runtime\Cache\Admin\65a5c81e2e43da849a7b345f7d20293b.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000237s ]
+
+[ 2021-05-28T17:28:06+08:00 ] ::1 /union/admin.php/Database/index/type/import.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Undefined variable: config C:\wamp64\www\union\Application\Admin\Controller\DatabaseController.class.php 第 36 行.
+NOTIC: [2] mkdir(): File exists C:\wamp64\www\union\Application\Admin\Controller\DatabaseController.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined variable: page C:\wamp64\www\union\Application\Runtime\Cache\Admin\70619b898e29e62c68b1d45593e161aa.php 第 100 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2021-05-28T17:28:07+08:00 ] ::1 /union/admin.php/System/siteConfig.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000180s ]
+SQL: SHOW COLUMNS FROM `union_system` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `union_system` WHERE `name` = 'config' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
